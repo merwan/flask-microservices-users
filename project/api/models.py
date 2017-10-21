@@ -1,6 +1,6 @@
 import datetime
 
-from projet import db
+from project import db
 
 
 class User(db.Model):
